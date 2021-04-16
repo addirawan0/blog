@@ -1,7 +1,7 @@
 {
   "name": "Lewatin Aja",
   "short_name": "Lewatinaja",
-  "scope": "/",
+  "scope": "https://www.lewatinaja.com",
   "start_url": "https://www.lewatinaja.com",
   "display": "standalone",
   "background_color": "#fff",
